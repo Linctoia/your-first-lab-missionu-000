@@ -1,6 +1,6 @@
 # Solving Your First Lab
 
-Now that you've got the Learn IDE up and running, you're going to use it to solve your very first lab on Learn. You've really got something going on now. 
+Now that you've got the Learn IDE up and running, you're going to use it to solve your very first lab on Learn. 
 
 ## Objectives
 
